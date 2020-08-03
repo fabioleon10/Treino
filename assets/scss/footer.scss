@@ -1,0 +1,28 @@
+footer {
+    padding-bottom: 16px;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(25,77,171,1) 45%, rgba(64,186,187,1) 100%);
+    .leads {
+        padding-top: 32px;
+        margin-top: 32px;
+        padding-bottom: 32px;
+        margin-bottom: 32px;
+        color: white;
+
+    
+    }
+
+    .social {
+        padding-top: 32px;
+        margin-top: 32px;
+        padding-bottom: 32px;
+        margin-bottom: 32px;
+
+        background-color: white;
+
+        img {
+            height: 30px;
+            width: 30px;
+        }
+    }
+}

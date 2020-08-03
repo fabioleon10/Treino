@@ -1,0 +1,30 @@
+.servicos {
+    
+    padding-top: 40px;
+    p {
+        font-size: 18px;
+        color: black;
+    }
+
+    h3 {
+        padding-top: 40px;
+        color: black;
+       
+            
+        
+    }
+
+    .card-servico {
+        height: 350px;
+        background-color: lightgrey;
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+       justify-content: center;
+        &:hover{
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+            transition: .35s ease-in-out;
+        }
+    }
+    
+}

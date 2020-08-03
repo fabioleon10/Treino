@@ -1,0 +1,17 @@
+.quem-somos {
+    padding-top: 32px;
+    margin-top: 32px;
+    padding-bottom: 32px;
+    margin-bottom: 32px;
+    background: #f7f7f7;
+    .imagem-quem-somos {
+        img {
+            height: 500px;
+        }
+    }
+
+    p,
+    h2 {
+        color: black;
+    }
+}

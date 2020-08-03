@@ -1,0 +1,28 @@
+.banner {
+    display: flex;
+
+    align-items: center;
+    height: 100vh;
+    background-image:url("../images/laguna.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    .content-banner{
+        
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+        h1{
+            color: white;
+            
+            
+        }
+        
+       
+        p{
+            font-size: 24px;
+            color: white;
+            
+        }
+    }
+}

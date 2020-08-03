@@ -1,0 +1,46 @@
+h1{
+    font-size: 64px;
+   @media (max-width: $md) {
+       font-size: 48px;
+       
+       
+   }
+
+}
+
+h2{
+ font-size: 48px;
+@media (max-width: $md) {
+    font-size: 40px;
+    
+}
+
+}
+
+h3{
+ font-size: 40px;
+ @media (max-width: $md) {
+     font-size: 32px;
+ }
+}
+
+p{
+    font-size: 18px;
+
+}
+
+a {
+    font: 16px;
+}
+
+p,a{
+    font-family: 'Source Sans Pro', sans-serif !important;
+    
+    background-color: unset !important;
+    font-size: 18px;
+}
+h1,h2,h3{
+    font-family: 'Montserrat', sans-serif !important;
+    
+}
+
